@@ -55,13 +55,13 @@
 */
 const messages = [
     "Whng, Are you sure?",
-    "Are you really sure??, whng",
+    "Are you really sure?? whng",
     "I pok you a?",
     "ello please...",
     "Jie Jie think again!",
-    "If you say no, pok pok will send cokroach...",
+    "Ok, I let you think again. I got take nap first",
     "ello, pok pok tired asking already...",
-    "Let me take a nap first then I come back again",
+    "If you please no, I send cokroach",
     "Ok fine, pok pok send cokroach.",
     "Just kidding, jie jie say yes please! ❤️"
 ];
